@@ -7,9 +7,9 @@ def flocon(l):
     left(120)
     motif(l)
     left(120)
-    
-    
-def motif(l)
+
+
+def motif(l):
     forward(l/3)
     right(60)
     forward(l/3)
@@ -17,5 +17,6 @@ def motif(l)
     forward(l/3)
     right(60)
     forward(l/3)
-    
+
+
 flocon(120)

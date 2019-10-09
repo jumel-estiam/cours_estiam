@@ -48,4 +48,7 @@ while True:
         break
 
 
+from fonctions import *
+triangle(100,100)
+
 done()
