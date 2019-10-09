@@ -22,4 +22,7 @@ def motif(n, l):
         motif(n-1,l/3)
 
 
-flocon(2,120)
+ht()
+tracer(8,25)
+speed(0)
+flocon(7,729/3)
